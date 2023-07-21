@@ -7,6 +7,7 @@
 # With this custom Nmap script, I have been able to achieve faster and more effective scanning, making it a valuable tool for any cybersecurity enthusiast or penetration tester looking to streamline 
 # their reconnaissance process.
 
+# version : 1.0 | date : July 5th, 2023
 #!/usr/bin/bash
 
 # usage: ./enhancednmap.sh <target_ip>
