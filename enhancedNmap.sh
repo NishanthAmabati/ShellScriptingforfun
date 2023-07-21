@@ -1,8 +1,11 @@
-# I have developed a custom Nmap script that significantly enhances scan speed. The script employs a unique approach by first conducting a basic Nmap scan across all ports. Once this initial scan is completed, it then automatically initiates an Aggressive Nmap scan (-A) individually on each port identified during the initial scan.
+# I have developed a custom Nmap script that significantly enhances scan speed. The script employs a unique approach by first conducting a basic Nmap scan across all ports. Once this initial scan is 
+# completed, it then automatically initiates an Aggressive Nmap scan (-A) individually on each port identified during the initial scan.
 
-# This method dramatically reduces the time consumed compared to directly using the Nmap -A flag for an entire scan. By targeting the Aggressive scan only on specific ports that require deeper analysis, the script efficiently optimizes the scanning process without compromising the quality of the results.
+# This method dramatically reduces the time consumed compared to directly using the Nmap -A flag for an entire scan. By targeting the Aggressive scan only on specific ports that require deeper 
+# analysis, the script efficiently optimizes the scanning process without compromising the quality of the results.
 
-# With this custom Nmap script, I have been able to achieve faster and more effective scanning, making it a valuable tool for any cybersecurity enthusiast or penetration tester looking to streamline their reconnaissance process.
+# With this custom Nmap script, I have been able to achieve faster and more effective scanning, making it a valuable tool for any cybersecurity enthusiast or penetration tester looking to streamline 
+# their reconnaissance process.
 
 #!/usr/bin/bash
 
