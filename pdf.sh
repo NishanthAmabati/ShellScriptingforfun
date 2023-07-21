@@ -9,6 +9,7 @@
 # manager or launching the respective applications separately. This streamlined approach enhances productivity, especially for
 # individuals who frequently work with PDF documents and prefer a terminal-based workflow.
 
+# # version : 1.0 | date : June 11th, 2023
 #!/usr/bin/bash
 
 #./pdf.sh <option> <file>
