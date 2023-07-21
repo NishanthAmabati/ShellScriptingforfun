@@ -1,8 +1,13 @@
-# I have created a custom shell script that offers a convenient way to open PDF files in either Google Chrome or the default GNOME PDF viewer directly from the terminal. This script eliminates the need to open PDFs manually using the mouse, providing a more efficient and seamless experience.
+# I have created a custom shell script that offers a convenient way to open PDF files in either Google Chrome or the default GNOME PDF 
+# viewer directly from the terminal. This script eliminates the need to open PDFs manually using the mouse, providing a more efficient and seamless experience.
 
-# When executed in the terminal, the script prompts the user to select their preferred option for viewing the PDF. They can choose between opening the PDF in the Google Chrome browser or the GNOME default PDF viewer (Evince). This flexibility allows users to tailor their PDF viewing experience according to their preferences and needs.
+# When executed in the terminal, the script prompts the user to select their preferred option for viewing the PDF. You can choose 
+# between opening the PDF in the Google Chrome browser or the GNOME default PDF viewer (Evince). This flexibility allows users to 
+# tailor their PDF viewing experience according to their preferences and needs.
 
-# By utilizing this custom shell script, users can effortlessly access PDF files without the hassle of navigating through their file manager or launching the respective applications separately. This streamlined approach enhances productivity, especially for individuals who frequently work with PDF documents and prefer a terminal-based workflow.
+# By utilizing this custom shell script, users can effortlessly access PDF files without the hassle of navigating through their file 
+# manager or launching the respective applications separately. This streamlined approach enhances productivity, especially for
+# individuals who frequently work with PDF documents and prefer a terminal-based workflow.
 
 #!/usr/bin/bash
 
