@@ -1,3 +1,7 @@
+# Developed a shell script to dynamically adjust screen brightness based on the time of day.
+
+# # version : 1.0 | date : April 12th, 2024
+
 #!/usr/bin/bash
 
 # max: 5000, min: 3000
